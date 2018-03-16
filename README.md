@@ -1,4 +1,4 @@
-###Readme
+### Readme
 
 
 This is a very very simple version of flappy bird for ios. For that I wrote this game just for the convience that I would need to write an app.And before I haven't write an app befor , so this seems more like an app to learn how to write an app in swift.
